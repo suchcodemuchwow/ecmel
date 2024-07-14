@@ -69,7 +69,7 @@ export default async function IndexPage({
                   </ShimmerButton>
                 </Link>
 
-                <Link href="https://github.com/ecmel/ecmel" target="_blank">
+                <Link href="https://github.com/suchcodemuchwow/ecmel" target="_blank">
                   <div className="flex h-full items-center justify-center">
                     <Icons.GitHub className="mr-2 h-6 w-6" />
                     <span className="text-base font-semibold">

@@ -65,7 +65,7 @@ bun create ecmel
 2. Manually clone the repository:
 
 ```bash
-git clone https://github.com/ecmel/ecmel.git
+git clone https://github.com/suchcodemuchwow/ecmel.git
 cd ecmel
 bun install
 ```
@@ -171,15 +171,15 @@ This project is licensed under the MIT License. For more information, see the [L
 
 ## 🙏 Credits
 
-This project was inspired by shadcn's [Taxonomy](https://github.com/shadcn-ui/taxonomy) and t3-oss's [create-t3-turbo](https://github.com/t3-oss/create-t3-turbo).
-
 ## 👨‍💻 Contributors
 
-<a href="https://github.com/ecmel/ecmel/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ecmel/ecmel" />
+<a href="https://github.com/suchcodemuchwow/ecmel/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=suchcodemuchwow/ecmel" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+[//]: # (Made with [contrib.rocks]&#40;https://contrib.rocks&#41;.)
 
 <!-- Badges and links -->
 
@@ -188,7 +188,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 [discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fecmel.io%2Fdiscord
 [made-by-nextify-badge]: https://img.shields.io/badge/made_by-nextify-blue?color=FF782B&link=https://nextify.ltd/
 
-[check-workflow-badge-link]: https://github.com/ecmel/ecmel/actions/workflows/check.yml
-[github-license-badge-link]: https://github.com/ecmel/ecmel/blob/main/LICENSE
+[check-workflow-badge-link]: https://github.com/suchcodemuchwow/ecmel/actions/workflows/check.yml
+[github-license-badge-link]: https://github.com/suchcodemuchwow/ecmel/blob/main/LICENSE
 [discord-badge-link]: https://discord.com/invite/b9uTZjdkrb
 [made-by-nextify-badge-link]: https://nextify.ltd
