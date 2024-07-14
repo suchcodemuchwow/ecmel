@@ -4,7 +4,7 @@
 
 [![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] 
 ![COMMIT_ACTIVITY](https://img.shields.io/github/commit-activity/m/suchcodemuchwow/ecmel?style=for-the-badge">)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fecmel%2Fecmel&labelColor=%23f47373&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fecmel%2Fecmel)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsuchcodemuchwow%2Fecmel&label=visitors&countColor=%232ccce4&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsuchcodemuchwow%2Fecmel)
 
 An easy-to-use and enterprise-grade Next.js boilerplate.
 
