@@ -2,9 +2,12 @@
 
 [//]: # (<a href="https://trendshift.io/repositories/8929" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8929" alt="ecmel%2Fecmel | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>)
 
-[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] 
-![COMMIT_ACTIVITY](https://img.shields.io/github/commit-activity/m/suchcodemuchwow/ecmel?style=for-the-badge">)
+[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link]
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsuchcodemuchwow%2Fecmel&label=visitors&countColor=%23a3027f&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsuchcodemuchwow%2Fecmel)
+![COMMIT_ACTIVITY](https://img.shields.io/github/commit-activity/m/suchcodemuchwow/ecmel?style=for-the-badge">)
+[![GitHub License][github-license-badge]][github-license-badge-link] 
+
+
 
 An easy-to-use and enterprise-grade Next.js boilerplate.
 
