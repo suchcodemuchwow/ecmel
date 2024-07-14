@@ -1,0 +1,4 @@
+{
+  "extends": "@ecmel/typescript-config/base.json",
+  "include": ["routes"]
+}
