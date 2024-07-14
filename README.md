@@ -2,18 +2,14 @@
 
 [//]: # (<a href="https://trendshift.io/repositories/8929" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8929" alt="ecmel%2Fecmel | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>)
 
-[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link]  [![Discord][discord-badge]][discord-badge-link] [![Ecmel][made-by-nextify-badge]][made-by-nextify-badge-link]
-[![Chinese](https://img.shields.io/badge/-Chinese-red.svg)](README_zh.md)
-[![German](https://img.shields.io/badge/-German-yellow.svg)](README_de.md)
-[![Vietnamese](https://img.shields.io/badge/-Vietnamese-yellow.svg)](README_vi.md) </br>
-![COMMIT_ACTIVITY](https://img.shields.io/github/commit-activity/m/ecmel/ecmel?style=for-the-badge">)
+[![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] 
+</br>
+![COMMIT_ACTIVITY](https://img.shields.io/github/commit-activity/m/suchcodemuchwow/ecmel?style=for-the-badge">)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fecmel%2Fecmel&labelColor=%23f47373&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fecmel%2Fecmel)
 
 An easy-to-use and enterprise-grade Next.js boilerplate.
 
 You don't need to buy templates anymore; Ecmel provides a complete, open-source solution for building SaaS applications quickly and easily.
-
-> **[Nextify](https://nextify.ltd)** provides a complete Enterprise SaaS solution. Contact us at [contact@nextify.ltd](mailto:contact@nextify.ltd) if you're interested in discussing your project, or if you'd simply like to have a conversation with us, please feel free to reach out.
 
 ## 🌟 Star History
 
@@ -93,14 +89,6 @@ bun run dev:web
 4. (Optional alpha)`bun run tailwind-config-viewer` Open [http://localhost:3333](http://localhost:3333) in your browser to see your Tailwind CSS configuration
 
 
-## 🥺 Project Roadmap
-
-1. Admin Dashboard Page (in alpha !!!)
-   2. only provide static page now and we plan to integrate with headless arch
-   3. You can provide your admin account and change **ADMIN_EMAIL="admin@ecmel.io,root@ecmel.io"** in .env.local and access host:port/admin/dashboard
-   4. Based on security concerns, we will not provide online demos for the time being.
-2. Consider integrating Payload CMS.
-
 ## ⭐ Features
 
 ### 🐭 Frameworks
@@ -108,7 +96,6 @@ bun run dev:web
 - **[Next.js](https://nextjs.org/)** - The React Framework for the Web (with **App Directory**)
 - **[NextAuth.js](https://next-auth.js.org/)** - Authentication for Next.js
 - **[Kysely](https://kysely.dev/)** - The type-safe SQL query builder for TypeScript
-- **[Prisma](https://www.prisma.io/)** - Next-generation ORM for Node.js and TypeScript, used as a schema management tool
 - **[React-email](https://react.email/)** - A React renderer for creating beautiful emails using React components
 
 ### 🐮 Platforms
@@ -183,12 +170,8 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 <!-- Badges and links -->
 
-[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/ecmel/ecmel/ci.yml?label=ci
+[check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/suchcodemuchwow/ecmel/ci.yml?label=ci
 [github-license-badge]: https://img.shields.io/badge/License-MIT-green.svg
-[discord-badge]: https://img.shields.io/discord/1204690198382911488?color=7b8dcd&link=https%3A%2F%2Fecmel.io%2Fdiscord
-[made-by-nextify-badge]: https://img.shields.io/badge/made_by-nextify-blue?color=FF782B&link=https://nextify.ltd/
 
 [check-workflow-badge-link]: https://github.com/suchcodemuchwow/ecmel/actions/workflows/check.yml
 [github-license-badge-link]: https://github.com/suchcodemuchwow/ecmel/blob/main/LICENSE
-[discord-badge-link]: https://discord.com/invite/b9uTZjdkrb
-[made-by-nextify-badge-link]: https://nextify.ltd
