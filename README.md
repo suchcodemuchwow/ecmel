@@ -15,18 +15,6 @@ You don't need to buy templates anymore; Ecmel provides a complete, open-source 
 
 > **[Nextify](https://nextify.ltd)** provides a complete Enterprise SaaS solution. Contact us at [contact@nextify.ltd](mailto:contact@nextify.ltd) if you're interested in discussing your project, or if you'd simply like to have a conversation with us, please feel free to reach out.
 
-> ❤️ We provide **free technical support and deployment services to non-profit organizations**.
->
-> 🙌 All profits obtained from our open source projects will be **entirely dedicated to supporting open source initiatives and charitable causes**.
-
-## ⚡ Live Demo
-
-Try it out for yourself!
-
-Demo Server (Location: Washington - USA): <https://show.ecmel.io>
-
-See more documentation at <https://document.ecmel.io>
-
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ecmel/ecmel&type=Timeline)](https://star-history.com/#ecmel/ecmel&Timeline)
